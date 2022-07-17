@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suneel Kumar Mandiga
 - 👀 I’m interested in Web Applicaiton Development
-- 🌱 I’m currently learning Azure Developer
-- 💞️ I’m looking to collaborate on Azure Architecture
+- 🌱 I’m currently working on completing Azure Developer Certification
+- 💞️ I’m looking to collaborate on Azure Development
 - 📫 you can reacn me at mandiga8@hotmmail.com
 
 <!---
